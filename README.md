@@ -269,7 +269,7 @@ Here in includes Entity Realtionship Diagrams, Api Enpoint Specification, Resour
   | Disabled | 2     |
   | Delete   | 3     |
 
-[See Entity Scheme file for more Entities/Details]()
+[See Entity Scheme file for more Entities/Details](https://drive.google.com/file/d/1758mgRWgUcXct-9Yippf-wIPG9dAZb7N/view?usp=sharing)
   
 <br>
 
